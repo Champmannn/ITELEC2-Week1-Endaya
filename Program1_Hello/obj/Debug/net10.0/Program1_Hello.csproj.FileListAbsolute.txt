@@ -1,0 +1,14 @@
+C:\Users\Admin\ITELEC2-Week1\Program1_Hello\bin\Debug\net10.0\Program1_Hello.exe
+C:\Users\Admin\ITELEC2-Week1\Program1_Hello\bin\Debug\net10.0\Program1_Hello.deps.json
+C:\Users\Admin\ITELEC2-Week1\Program1_Hello\bin\Debug\net10.0\Program1_Hello.runtimeconfig.json
+C:\Users\Admin\ITELEC2-Week1\Program1_Hello\bin\Debug\net10.0\Program1_Hello.dll
+C:\Users\Admin\ITELEC2-Week1\Program1_Hello\bin\Debug\net10.0\Program1_Hello.pdb
+C:\Users\Admin\ITELEC2-Week1\Program1_Hello\obj\Debug\net10.0\Program1_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\ITELEC2-Week1\Program1_Hello\obj\Debug\net10.0\Program1_Hello.AssemblyInfoInputs.cache
+C:\Users\Admin\ITELEC2-Week1\Program1_Hello\obj\Debug\net10.0\Program1_Hello.AssemblyInfo.cs
+C:\Users\Admin\ITELEC2-Week1\Program1_Hello\obj\Debug\net10.0\Program1_Hello.csproj.CoreCompileInputs.cache
+C:\Users\Admin\ITELEC2-Week1\Program1_Hello\obj\Debug\net10.0\Program1_Hello.dll
+C:\Users\Admin\ITELEC2-Week1\Program1_Hello\obj\Debug\net10.0\refint\Program1_Hello.dll
+C:\Users\Admin\ITELEC2-Week1\Program1_Hello\obj\Debug\net10.0\Program1_Hello.pdb
+C:\Users\Admin\ITELEC2-Week1\Program1_Hello\obj\Debug\net10.0\Program1_Hello.genruntimeconfig.cache
+C:\Users\Admin\ITELEC2-Week1\Program1_Hello\obj\Debug\net10.0\ref\Program1_Hello.dll
