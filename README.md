@@ -1,11 +1,13 @@
-# ITELEC2-Week1
-Name: Mark John M. Endaya BSIT 3.5
+# ITELEC2 Week 1 Activity
 
-Programs
--Program1_Hello: This program displays a simple greeting and my personal details using Console.WriteLine().
--Program2_Profile: This program uses variables to store my student information and displays the details on the screen.
--Program3_BillSplitter: This program shows how integer division, remainders, and exact division work in C#.
+Name: Mark John M. Endaya
+Section: 3.5 BSIT
 
-What I Learned
-I learned that compile errors happen when there are mistakes in the code. I encountered CS1002, which means a semicolon is missing, and CS0103, which happens when a name is not recognized, like writing console instead of Console.
-I predicted that dividing 250 by 4 using integer values would give me 62, and the result was correct because integer division removes the decimal part. However, when I used double, the result became 62.5 because it can store decimal values.
+## Programs
+- Program1_Hello: prints a greeting and my details.
+- Program2_Profile: stores a student profile in variables and prints it.
+- Program3_BillSplitter: shows integer division, remainder, and exact division.
+
+## What I learned
+- Compile errors I triggered: CS1002 (A build failed error where there is a syntax error detected during the compiling of the file.), CS0103 (Also a build failed error due to improper used of a class name, since C# is case sensitive it doesn't recognize the word "console" as part of the C# class / method.).
+- My prediction for 250 / 4 with int values was 62 and the result was 62 and the last part shows 62.5 because there are two distinct data types used, the original data type was both int but later on the last part it was changed to double.
